@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu May  2 11:49:07 2019
-
-@author: aspr323
 """
 
 
